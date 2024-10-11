@@ -1,0 +1,15 @@
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\obj\Debug\net8.0\TaskTrackerCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\obj\Debug\net8.0\TaskTrackerCLI.AssemblyInfoInputs.cache
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\obj\Debug\net8.0\TaskTrackerCLI.AssemblyInfo.cs
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\obj\Debug\net8.0\TaskTrackerCLI.csproj.CoreCompileInputs.cache
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\obj\Debug\net8.0\TaskTrackerCLI.sourcelink.json
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\bin\Debug\net8.0\TaskTrackerCLI.exe
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\bin\Debug\net8.0\TaskTrackerCLI.deps.json
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\bin\Debug\net8.0\TaskTrackerCLI.runtimeconfig.json
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\bin\Debug\net8.0\TaskTrackerCLI.dll
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\bin\Debug\net8.0\TaskTrackerCLI.pdb
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\obj\Debug\net8.0\TaskTrackerCLI.dll
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\obj\Debug\net8.0\refint\TaskTrackerCLI.dll
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\obj\Debug\net8.0\TaskTrackerCLI.pdb
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\obj\Debug\net8.0\TaskTrackerCLI.genruntimeconfig.cache
+C:\roadmap\Task-Tracker-CLI\TaskTrackerCLI\obj\Debug\net8.0\ref\TaskTrackerCLI.dll
